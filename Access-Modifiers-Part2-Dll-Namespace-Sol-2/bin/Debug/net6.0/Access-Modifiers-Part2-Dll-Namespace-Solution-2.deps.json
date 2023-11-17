@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Access-Modifiers-Part2-Dll-Namespace-Solution-2/1.0.0": {
+        "runtime": {
+          "Access-Modifiers-Part2-Dll-Namespace-Solution-2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Access-Modifiers-Part2-Dll-Namespace-Solution-2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
